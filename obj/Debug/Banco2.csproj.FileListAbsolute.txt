@@ -1,0 +1,7 @@
+C:\Users\Felipe\Desktop\C#\Banco2\Banco2\bin\Debug\Banco2.exe
+C:\Users\Felipe\Desktop\C#\Banco2\Banco2\bin\Debug\Banco2.pdb
+C:\Users\Felipe\Desktop\C#\Banco2\Banco2\obj\Debug\Banco2.csproj.AssemblyReference.cache
+C:\Users\Felipe\Desktop\C#\Banco2\Banco2\obj\Debug\Banco2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Felipe\Desktop\C#\Banco2\Banco2\obj\Debug\Banco2.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\C#\Banco2\Banco2\obj\Debug\Banco2.exe
+C:\Users\Felipe\Desktop\C#\Banco2\Banco2\obj\Debug\Banco2.pdb
